@@ -1,45 +1,46 @@
-BEST VIDEO PLAYER (no playlists but plays copyrighted Youtube videos and easier to change volume for 2D users)
+#### BEST VIDEO PLAYER (no playlists but plays copyrighted Youtube videos and easier to change volume for 2D users)  
 ws://apps.benvr.co.uk?app=video
 
-BEST SLIDES PLAYER (Use  images as a slide for an event perhaps)
+#### BEST SLIDES PLAYER (Use  images as a slide for an event perhaps)  
 ws://slides.benvr.co.uk
 
-DOORBELL (Will read username when entering world)
+#### DOORBELL (Will read username when entering world)  
 ws://apps.benvr.co.uk?app=doorbell&names=true
 
-SANTA HAT
+#### SANTA HAT  
 ws://mres.altvr.com/helmets?content_pack=1627160923313537113
 
-NEW YEAR HAT ws://mres.altvr.com/helmets?content_pack=1640269077609972310
+#### NEW YEAR HAT  
+ws://mres.altvr.com/helmets?content_pack=1640269077609972310
 
-INSTRUMENTS
+#### INSTRUMENTS  
 PIANO: ws://piano.norybiak.com
 
-SEARCH FOR WORLDS INSIDE ALTSPACEVR (VR mode only)
+#### SEARCH FOR WORLDS INSIDE ALTSPACEVR (VR mode only)  
 ws://piano.illuminati360.xyz:3945
 
-CHINESE LETTERS
+#### CHINESE LETTERS  
 ws://piano.illuminati360.xyz:3905
 
-MANY SIDED DICE
+#### MANY SIDED DICE  
 wss://ttrpg-dice-mre.herokuapp.com
 
-DRONE
+#### DRONE  
 ws://piano.illuminati360.xyz:3912
 
-DRINKS
+#### DRINKS  
  ws://drinks-mre.herokuapp.com
 
-ZOMBIE WITH 1911 PISTOL (Grab pistol and use)
+#### ZOMBIE WITH 1911 PISTOL (Grab pistol and use)  
 ws://piano.illuminati360.xyz:3923
 
-SIMPLE NAME TAGS:
+#### SIMPLE NAME TAGS:  
 ws://altspace-name-tags.herokuapp.com
 
-PLAY A SOUND (with options):
+#### PLAY A SOUND (with options):  
 ws://mre-playsound.herokuapp.com (instructions at https://mre-playsound.herokuapp.com/)
 
-OTHERS
-ws://video.norybiak.com
-ws://audio.norybiak.com 
-ws://boombox.norybiak.com
+#### OTHERS  
+ws://video.norybiak.com  
+ws://audio.norybiak.com  
+ws://boombox.norybiak.com  
