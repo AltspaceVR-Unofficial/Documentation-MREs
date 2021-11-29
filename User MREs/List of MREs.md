@@ -16,23 +16,14 @@ ws://mres.altvr.com/helmets?content_pack=1640269077609972310
 #### INSTRUMENTS  
 PIANO: ws://piano.norybiak.com
 
-#### SEARCH FOR WORLDS INSIDE ALTSPACEVR (VR mode only)  
-ws://piano.illuminati360.xyz:3945
-
-#### CHINESE LETTERS  
-ws://piano.illuminati360.xyz:3905
-
 #### MANY SIDED DICE  
 wss://ttrpg-dice-mre.herokuapp.com
-
-#### DRONE  
-ws://piano.illuminati360.xyz:3912
 
 #### DRINKS  
  ws://drinks-mre.herokuapp.com
 
-#### ZOMBIE WITH 1911 PISTOL (Grab pistol and use)  
-ws://piano.illuminati360.xyz:3923
+#### FPS GAME
+ws://www.illuminati360.xyz/a?name=cs
 
 #### SIMPLE NAME TAGS:  
 ws://altspace-name-tags.herokuapp.com
